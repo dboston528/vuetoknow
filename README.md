@@ -1,5 +1,5 @@
-#Things to know about Vue
+# Things to know about Vue
 
-##Create an app
+## Create an app
 ```vue create [app name]```
 
